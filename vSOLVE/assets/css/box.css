@@ -1,0 +1,8 @@
+.inner-box{
+    width: 1470px;
+    height: 80px;
+    border: 1px white;
+    padding: 4px;
+    margin: 20px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}

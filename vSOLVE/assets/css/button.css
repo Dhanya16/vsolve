@@ -1,0 +1,29 @@
+.btn-primary{
+    background-color: #470cbe;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border:none;
+    width: 300px;
+}
+button:hover{
+    background-color:#48d6e9;
+}
+button:active{
+    background-color: rgb(121, 83, 235);
+}
+.btn-secondary{
+    background-color: #9e14df;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border:none;
+    width: 200px;
+    font-size: 30px;
+}
+button:hover{
+    background-color:#ed36ea;
+}
+button:active{
+    background-color: rgb(183, 114, 232);
+}
